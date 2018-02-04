@@ -1,3 +1,4 @@
 # readme
 
-In this folder please include copies of any note files you took during this process.
+     When I began the process by choosing what object I wanted to turn into a 3D model I knew I didn't want to choose soemthing too big. 
+I also wanted to choose something that has historical value. Instead of going to a museum and choosing an object I wouldn't be able to touch. I looked at some of the old cameras I own. A disposable, a polaroid, a minolta and the one i ended up choosing, a vintage Kodalk folding camera. I used the app Trnio to take the pictures that developed a model. It took 13 pictures to develop the view. My only complaints are that I should have used an all white background when I took the pictures, and that the time to process the model was over an hour long. I didn't think that 13 pictures strewn together would take as long as it did.
