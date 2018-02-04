@@ -6,22 +6,22 @@ Macro Paradata: the big decisions relating to the nature of the visualisation.
 
 Q: Why has the resource being created and for what audience?
 
-A:
+A: This resource has been created so that other people can experience this digital artifact instead of viewing a 2D image.
 
 Q: How will the resource be put to use? Is it sustainable and accessible?
 
-A:
+A: It will have public access online for people to view it. It is sustainable at this level, but I would prefer a high quality 3D image. 
 
 Q: Why have you chosen to use the approach/methods applied?
 
-A:
+A: Using basic technology on my phone and websites like GitHub and Sketchfab, I can produce what seems to be a complicaated product with the use of accessible technology. 
 
 
 Micro Paradata: the small-scale decision-making processes underlying the construction of the visualisation.
 
 Q: What are the basic steps you followed in putting together the resource?
 
-A:
+A: I used the app Trnio to create the 3D model of the camera. I researched online to find more information about the camera. 
 
 Q: What supporting evidence did you rely upon?
 
