@@ -25,11 +25,11 @@ A: I used the app Trnio to create the 3D model of the camera. I researched onlin
 
 Q: What supporting evidence did you rely upon?
 
-A:
+A: The technology and research of my artifact. 
 
-Q: How have you acknowledged uncertainty in the resource? Where might alternatice interpretations have been made or where are such interpretatins otherwise available for viewing audiences to refer to?
+Q: How have you acknowledged uncertainty in the resource? Where might alternative interpretations have been made or where are such interpretations otherwise available for viewing audiences to refer to?
 
-A:
+A: I think the app Trnio, still seems like it is under development. Looking back I would probably used something different to create my model. The way I see an audience interpreting the work I have produced thus far is that everything is still in development and the process is only at the beginning stages. 
 
 References
 
