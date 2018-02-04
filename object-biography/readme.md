@@ -15,6 +15,7 @@ Inside it has all the patent dates in the USA, Canada and Australia. The particu
 There is no view finder to see what you are taking a photo of.
 
 Here are the specifications I found off of this website http://camerapedia.wikia.com/wiki/No._1A_Autographic_Kodak_Junior :
+
 Type: folding camera
 
 Manufacturer: Eastman Kodak Company
